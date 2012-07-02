@@ -12,7 +12,6 @@ public partial class ContentPage_Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        Facebook.Web.FacebookWebContext objFacebook = new Facebook.Web.FacebookWebContext(
         
     }
 }
